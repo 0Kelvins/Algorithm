@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/Program Files/TDM-GCC/include",
+                "D:/Program Files/TDM-GCC/x86_64-w64-mingw32/include",
+                "D:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include",
+                "D:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "D:/Program Files/TDM-GCC/include",
+                    "D:/Program Files/TDM-GCC/x86_64-w64-mingw32/include",
+                    "D:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include",
+                    "D:/Program Files/TDM-GCC/lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "clang_format": {
+        "style": "file",
+        "fallback-style": "LLVM",
+        "sort-includes": false
+    },
+    "version": 3
+}
