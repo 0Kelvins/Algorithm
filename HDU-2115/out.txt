@@ -1,0 +1,18 @@
+Case #1
+Bryant 1
+Wade 1
+Nash 3
+Davies 4
+Carter 5
+Iverson 6
+James 7
+Parker 8
+Kidd 9
+Jordan 10
+
+Case #2
+d 1
+a 2
+c 2
+e 2
+b 5
